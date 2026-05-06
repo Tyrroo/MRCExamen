@@ -1,0 +1,2 @@
+public class Marcos2 {
+}
